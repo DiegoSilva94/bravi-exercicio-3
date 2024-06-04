@@ -1,0 +1,1 @@
+2024/06/03 14:06:57 [error] 7#7: *3 directory index of "/var/www/html/" is forbidden, client: 172.23.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:4200"
